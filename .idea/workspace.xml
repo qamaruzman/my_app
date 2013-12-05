@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ff5779-dec2-4a3c-81c8-f99b7d8c2a22" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/my_app.iml" afterPath="$PROJECT_DIR$/.idea/my_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +33,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="16" selection-start="523" selection-end="523" vertical-scroll-proportion="0.66952056">
+            <state line="42" column="0" selection-start="817" selection-end="817" vertical-scroll-proportion="1.2226027">
               <folding />
             </state>
           </provider>
@@ -264,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1381" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1381" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -349,7 +352,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="523" selection-end="523" vertical-scroll-proportion="0.66952056">
+        <state line="42" column="0" selection-start="817" selection-end="817" vertical-scroll-proportion="1.2226027">
           <folding />
         </state>
       </provider>
